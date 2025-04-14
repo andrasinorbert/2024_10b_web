@@ -1,0 +1,49 @@
+body{
+    background-color: #202020;
+    color:#3C3C3C;
+}
+
+a{
+    color: #8B0000;
+}
+
+table{
+    margin:auto;
+    width: 800px;
+    background-color: #FFD700;
+    border: 2px solid black;
+}
+
+td{
+    padding:10px;
+}
+
+#masodiksorelsocella{
+    width: 150px;
+    vertical-align: top;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+hr{
+    width: 50%;
+}
+
+ul{
+    list-style: circle;
+}
+
+img{
+    margin:auto;
+    display:block;
+}
+
+.kiemelt{
+    font-weight: bold;
+}
